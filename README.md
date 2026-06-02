@@ -88,17 +88,6 @@ class AravindaneV:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aravindanevaithianadan-design&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aravindanevaithianadan-design&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
----
-
 ## 🔥 Streak Stats
 
 <div align="center">
