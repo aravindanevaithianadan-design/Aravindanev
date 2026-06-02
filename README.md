@@ -107,7 +107,7 @@ class AravindaneV:
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=aravindanev&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=aravindanevaithianadan-design&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
 
 </div>
 
@@ -117,7 +117,7 @@ class AravindaneV:
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aravindanev&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/aravindanev)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aravindanevaithianadan-design&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/aravindanev)
 
 </div>
 
@@ -127,7 +127,7 @@ class AravindaneV:
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=aravindanev&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/aravindanev)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=aravindanevaithianadan-design&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/aravindanev)
 
 </div>
 
