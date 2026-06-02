@@ -21,7 +21,7 @@
 class AravindaneV:
 
     name         = "Aravindane V"
-    location     = "Old Saram, Puducherry, India 🇮🇳"
+    location     = "Puducherry, India"
     degree       = "B.Tech — Computer Science & Engineering"
     college      = "Sri Manakula Vinayagar Engineering College"
     batch        = "2025 – Present"
